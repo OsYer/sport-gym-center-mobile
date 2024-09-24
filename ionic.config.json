@@ -1,0 +1,8 @@
+{
+  "name": "Sport Gym Center Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "38e95626"
+}
